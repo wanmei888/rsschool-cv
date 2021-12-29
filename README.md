@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://github.com/wanmei888/rsschool-cv
