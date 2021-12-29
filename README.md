@@ -1,1 +1,1 @@
-# https://github.com/wanmei888/rsschool-cv
+# https://wanmei888.github.io/rsschool-cv/cv
