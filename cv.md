@@ -19,4 +19,3 @@ ___
 ####Contacts
 ___
 [link for github page](https://wanmei888.github.io/rsschool-cv/cv)
-
